@@ -1,0 +1,15 @@
+*.RData
+*.Rhistory
+*.DS_Store
+*.txt
+*.pdf
+
+# directories to ignore3
+results/
+images/
+queue/
+data/*
+
+# exceptions
+!data/mesh/
+!data/mesh/**
